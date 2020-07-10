@@ -12,6 +12,5 @@
 
 *"Kindness always wins" -Selena Gomez* 💛
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshKapadia2&show_icons=true&hide_border=true)
-
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshKapadia2&show_icons=true)
 ([Source](https://github.com/anuraghazra/github-readme-stats))
