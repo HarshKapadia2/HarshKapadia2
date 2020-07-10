@@ -11,3 +11,6 @@
 - ⚡ Fun fact: I'm an ally to the LGBTQIA+ community, a believer in kindness and I love helping others!
 
 *"Kindness always wins" -Selena Gomez* 💛
+
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshKapadia2)
+([Source](https://github.com/anuraghazra/github-readme-stats))
