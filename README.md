@@ -6,7 +6,8 @@
 - 🤔 I’m looking for help on furthering my CSS & JS knowledge.
 - 💬 Ask me about anything, be it tech or non-tech!
 - 📫 Reach me via Twitter [@harshgkapadia](https://twitter.com/harshgkapadia) or [LinkedIn](https://www.linkedin.com/in/harsh-kapadia-426999175/).
-- 📃 Read my articles at [dev.to/harshgkapadia](https://dev.to/harshgkapadia)
+- 📃 Read my articles at [dev.to/harshgkapadia](https://dev.to/harshgkapadia).
+- 📹 Watch my videos on my [YouTube Channel](https://www.youtube.com/channel/UCgeTPlxztudRi7yav9HNa9Q?view_as=subscriber).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an ally to the LGBTQIA+ community, a believer in kindness and I love helping others!
 
