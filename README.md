@@ -20,7 +20,7 @@
 
 ### 👉 Do star ⭐ the repos that you like!
 
-### Web apps
+### 🔰 Web apps
 
 <a href="https://github.com/HarshKapadia2/attendance_management">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=attendance_management" />
@@ -34,13 +34,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=one-or-two" />
 </a>
 
-### Documentation web site
+### 🔰 Documentation web site
 
 <a href="https://github.com/HarshKapadia2/git_basics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=git_basics" />
 </a>
 
-### Web sites
+### 🔰 Web sites
 
 <a href="https://github.com/HarshKapadia2/lbl-tribute-page">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=lbl-tribute-page" />
