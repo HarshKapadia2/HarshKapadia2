@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on JS and Flask projects.
 - 🤔 I’m looking for help on furthering my CSS & JS knowledge.
 - 💬 Ask me about anything, be it tech or non-tech!
-- 📫 Reach me via Twitter [@harshgkapadia](https://twitter.com/harshgkapadia) or [LinkedIn](https://www.linkedin.com/in/harsh-kapadia-426999175/).
+- 📫 Reach me via [Twitter (@harshgkapadia)](https://twitter.com/harshgkapadia), [LinkedIn (@harshgkapadia)](https://www.linkedin.com/in/harshgkapadia) or e-mail (harshgkapadia@gmail.com).
 - 📃 Read my articles at [dev.to/harshgkapadia](https://dev.to/harshgkapadia).
 - 📹 Watch my videos on my [YouTube Channel](https://www.youtube.com/channel/UCgeTPlxztudRi7yav9HNa9Q?view_as=subscriber).
 - 😄 Pronouns: He/Him
