@@ -18,7 +18,7 @@
 
 ## My repositories
 
-### ❗ Do star ⭐ the repos that you like!
+### 👉 Do star ⭐ the repos that you like!
 
 ### Web apps
 
