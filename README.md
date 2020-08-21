@@ -18,6 +18,8 @@
 
 ## My repositories
 
+### Do star ⭐ the repos that you like!
+
 ### Web apps
 
 <a href="https://github.com/HarshKapadia2/attendance_management">
@@ -45,6 +47,7 @@
 <a href="https://github.com/HarshKapadia2/sample-challenges-page">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=sample-challenges-page" />
 </a>
+<br />
 <br />
 <a href="https://github.com/HarshKapadia2/sample-contact-us-page">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=sample-contact-us-page" />
