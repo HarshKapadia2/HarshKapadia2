@@ -50,6 +50,9 @@
 </a>
 <br />
 <br />
+<a href="https://github.com/HarshKapadia2/sample-marksheet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=sample-marksheet" />
+</a>
 <a href="https://github.com/HarshKapadia2/sample-contact-us-page">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=sample-contact-us-page" />
 </a>
