@@ -33,6 +33,9 @@
 <a href="https://github.com/HarshKapadia2/one-or-two">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=one-or-two" />
 </a>
+<a href="https://github.com/ohhhhrajatjoshi/food-oye">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ohhhhrajatjoshi&repo=food-oye&show_owner=ohhhhrajatjoshi" />
+</a>
 
 ### 🔰 Documentation web site
 
