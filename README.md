@@ -1,6 +1,6 @@
 ### Hi there, I'm Harsh! 👋
 
-- 🔭 I’m currently working on [Food Oye](https://github.com/ohhhhrajatjoshi/food-oye), [Attendance Manager](https://github.com/HarshKapadia2/attendance_management) & [git_basics](https://github.com/HarshKapadia2/git_basics).
+- 🔭 I’m currently working on [Food Oye](https://github.com/rajatrjoshi/food-oye), [Attendance Manager](https://github.com/HarshKapadia2/attendance_management) & [git_basics](https://github.com/HarshKapadia2/git_basics).
 - 🌱 I’m currently learning a lot of things!
 - 👯 I’m looking to collaborate on JS and Flask projects.
 - 🤔 I’m looking for help on furthering my CSS & JS knowledge.
@@ -33,8 +33,8 @@
 <a href="https://github.com/HarshKapadia2/one-or-two">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=one-or-two" />
 </a>
-<a href="https://github.com/ohhhhrajatjoshi/food-oye">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ohhhhrajatjoshi&repo=food-oye&show_owner=ohhhhrajatjoshi" />
+<a href="https://github.com/rajatrjoshi/food-oye">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajatrjoshi&repo=food-oye&show_owner=rajatrjoshi" />
 </a>
 
 ### 🔰 Documentation web site
