@@ -25,16 +25,16 @@
 <a href="https://github.com/HarshKapadia2/attendance_management">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=attendance_management" />
 </a>
-<a href="https://github.com/HarshKapadia2/court_case_management_web_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=court_case_management_web_app" />
+<a href="https://github.com/rajatrjoshi/food-oye">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajatrjoshi&repo=food-oye&show_owner=rajatrjoshi" />
 </a>
 <br />
 <br />
 <a href="https://github.com/HarshKapadia2/one-or-two">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=one-or-two" />
 </a>
-<a href="https://github.com/rajatrjoshi/food-oye">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajatrjoshi&repo=food-oye&show_owner=rajatrjoshi" />
+<a href="https://github.com/HarshKapadia2/court_case_management_web_app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=court_case_management_web_app" />
 </a>
 
 ### 🔰 Documentation web site
@@ -59,3 +59,7 @@
 <a href="https://github.com/HarshKapadia2/sample-contact-us-page">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=sample-contact-us-page" />
 </a>
+
+## My gists
+
+- [My personal path & my recommended way of going about web dev.](https://gist.github.com/HarshKapadia2/e7e13676c83bc295ce78aa7f39611caf)
