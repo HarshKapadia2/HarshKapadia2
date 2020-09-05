@@ -62,6 +62,4 @@
 
 ## My gists
 
-### 👉 Do star ⭐ the gists that you like!
-
 - [My web dev path, projects and resources.](https://gist.github.com/HarshKapadia2/e7e13676c83bc295ce78aa7f39611caf)
