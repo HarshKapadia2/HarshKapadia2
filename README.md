@@ -1,6 +1,6 @@
 ### Hi there, I'm Harsh! 👋
 
-- 🔭 I’m currently working on [Food Oye](https://github.com/rajatrjoshi/food-oye), [Attendance Manager](https://github.com/HarshKapadia2/attendance_management) & [git_basics](https://github.com/HarshKapadia2/git_basics).
+- 🔭 I’m currently working on my web dev skills.
 - 🌱 I’m currently learning a lot of things!
 - 👯 I’m looking to collaborate on JS and Flask projects.
 - 🤔 I’m looking for help on furthering my CSS & JS knowledge.
