@@ -42,10 +42,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=calculator" />
 </a>
 
-### 🔰 Documentation web site
+### 🔰 Documentation
 
 <a href="https://github.com/HarshKapadia2/git_basics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=git_basics" />
+</a>
+<a href="https://github.com/HarshKapadia2/web-dev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=web-dev" />
 </a>
 
 ### 🔰 Web sites
@@ -67,7 +70,6 @@
 
 ## My gists
 
-- [My web dev path, projects and resources.](https://gist.github.com/HarshKapadia2/e7e13676c83bc295ce78aa7f39611caf)
 - [HTTP methods and status codes.](https://gist.github.com/HarshKapadia2/8068274d30d98ed3bd1c1ba6bd13b798)
 - [Unix/Linux info.](https://gist.github.com/HarshKapadia2/18150e1e57eab1f0e500f18feea890aa) (File system, Linux containers, etc.)
 - [My WSL and WSL2 guide.](https://gist.github.com/HarshKapadia2/714bba15f0f09d32c07cdde3c244be9f)
