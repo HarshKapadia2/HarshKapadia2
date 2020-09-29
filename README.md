@@ -25,11 +25,6 @@
 <a href="https://github.com/HarshKapadia2/one-or-two">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=one-or-two" />
 </a>
-<a href="https://github.com/HarshKapadia2/court_case_management_web_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=court_case_management_web_app" />
-</a>
-<br />
-<br />
 <a href="https://github.com/HarshKapadia2/calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=calculator" />
 </a>
