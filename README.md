@@ -60,6 +60,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=sample-contact-us-page" />
 </a>
 
+### Misc
+
+<a href="https://github.com/HarshKapadia2/JDBC_LibraryManagementSystem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=JDBC_LibraryManagementSystem" />
+</a>
+
 ### Gists
 
 - [HTTP methods and status codes.](https://gist.github.com/HarshKapadia2/8068274d30d98ed3bd1c1ba6bd13b798)
