@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my web dev skills.
 - 🌱 I’m currently learning a lot of things!
-- 📫 Reach me via [Twitter](https://twitter.com/harshgkapadia), [LinkedIn](https://www.linkedin.com/in/harshgkapadia), [OTC](https://otc.zulipchat.com) or e-mail (harshgkapadia@gmail.com).
+- 📫 Reach me via [OTC](https://otc.zulipchat.com), [Twitter](https://twitter.com/harshgkapadia), [LinkedIn](https://www.linkedin.com/in/harshgkapadia) or e-mail (harshgkapadia@gmail.com).
 - 📃 Read my articles at [dev.to/harshgkapadia](https://dev.to/harshgkapadia).
 - 📹 Watch my videos on my [YouTube Channel](https://www.youtube.com/channel/UCgeTPlxztudRi7yav9HNa9Q?view_as=subscriber).
 - 😄 Pronouns: He/Him
