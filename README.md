@@ -39,9 +39,6 @@
 <a href="https://github.com/HarshKapadia2/git_basics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=git_basics" />
 </a>
-<a href="https://github.com/HarshKapadia2/web-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=web-dev" />
-</a>
 
 ### Web sites
 
@@ -60,10 +57,23 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=sample-contact-us-page" />
 </a>
 
-### Misc
+### Desktop application
 
 <a href="https://github.com/HarshKapadia2/JDBC_LibraryManagementSystem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=JDBC_LibraryManagementSystem" />
+</a>
+
+### Misc
+<a href="https://github.com/HarshKapadia2/web-dev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=web-dev" />
+</a>
+<a href="https://github.com/HarshKapadia2/articles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=articles" />
+</a>
+<br />
+<br />
+<a href="https://github.com/HarshKapadia2/talks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=talks" />
 </a>
 
 ### Gists
