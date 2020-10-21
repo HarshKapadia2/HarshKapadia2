@@ -39,6 +39,9 @@
 <a href="https://github.com/HarshKapadia2/git_basics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=git_basics" />
 </a>
+<a href="https://github.com/HarshKapadia2/cli">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=cli" />
+</a>
 
 ### Web sites
 
