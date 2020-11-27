@@ -14,22 +14,25 @@
 
 ### Web apps
 
+<a href="https://github.com/HarshKapadia2/hps-gems">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=hps-gems" />
+</a>
 <a href="https://github.com/HarshKapadia2/attendance_management">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=attendance_management" />
 </a>
+<br />
+<br />
 <a href="https://github.com/rajatrjoshi/food-oye">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajatrjoshi&repo=food-oye&show_owner=rajatrjoshi" />
 </a>
-<br />
-<br />
 <a href="https://github.com/HarshKapadia2/one-or-two">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=one-or-two" />
 </a>
+<br />
+<br />
 <a href="https://github.com/HarshKapadia2/calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=calculator" />
 </a>
-<br />
-<br />
 <a href="https://github.com/HarshKapadia2/court_case_management_web_app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=court_case_management_web_app" />
 </a>
