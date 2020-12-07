@@ -1,73 +1,47 @@
 ### Hey, I'm Harsh!
 
-- 🔭 I’m currently working on my web dev skills.
-- 🌱 I’m currently learning a lot of things!
-- 📫 Reach me via [OTC](https://otc.zulipchat.com), [Twitter](https://twitter.com/harshgkapadia), [LinkedIn](https://www.linkedin.com/in/harshgkapadia) or e-mail (harshgkapadia@gmail.com).
+- 💛 I love web development and open source!
+- 📫 Reach me via
+  - [Our Tech Community](https://otc.zulipchat.com) (Founder)
+  - Twitter [@harshgkapadia](https://twitter.com/harshgkapadia) or [@OurTechComm](https://twitter.com/OurTechComm)
+  - [LinkedIn](https://www.linkedin.com/in/harshgkapadia)
+  - e-mail (harshgkapadia@gmail.com).
 - 📃 Read my articles at [dev.to/harshgkapadia](https://dev.to/harshgkapadia).
-- 📹 Watch my videos on my [YouTube Channel](https://www.youtube.com/channel/UCgeTPlxztudRi7yav9HNa9Q?view_as=subscriber).
+- 📹 Watch my videos on my [YouTube channel](https://www.youtube.com/channel/UCgeTPlxztudRi7yav9HNa9Q?view_as=subscriber).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an ally to the LGBTQIA+ community, a believer in kindness and I love helping others!
 
-*"Kindness always wins" -Selena Gomez* 💛
+*"Kindness always wins" -Selena Gomez*
 
 *"We rise by lifting others." -Robert Ingersoll*
 
-### Web apps
+### My projects
 
-<a href="https://github.com/HarshKapadia2/hps-gems">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=hps-gems" />
-</a>
-<a href="https://github.com/HarshKapadia2/attendance_management">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=attendance_management" />
-</a>
-<br />
-<br />
-<a href="https://github.com/rajatrjoshi/food-oye">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajatrjoshi&repo=food-oye&show_owner=rajatrjoshi" />
-</a>
-<a href="https://github.com/HarshKapadia2/one-or-two">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=one-or-two" />
-</a>
-<br />
-<br />
-<a href="https://github.com/HarshKapadia2/calculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=calculator" />
-</a>
-<a href="https://github.com/HarshKapadia2/court_case_management_web_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=court_case_management_web_app" />
-</a>
+Web app | Front end | Back end | Live demo | GitHub repo
+------- | --------- | -------- | --------- | -----------
+HPS Gems | HTML, vanilla CSS, vanilla JS | PHP, MySQL | [link](https://hps-gems.herokuapp.com/) | [link](https://github.com/HarshKapadia2/hps-gems)
+Attendance Manager | Template | Flask, Firebase | [link](https://attendance-management-flask.herokuapp.com/) | [link](https://github.com/HarshKapadia2/attendance_management)
+Food Oye (Mobile only) | HTML, vanilla CSS, vanilla JS | Node.js, Firebase | [link](https://food-oye.herokuapp.com/) | [link](https://github.com/rajatrjoshi/food-oye)
+1 or 2? | HTML, vanilla CSS, vanilla JS | Flask | [link](https://one-or-two.herokuapp.com/) | [link](https://github.com/HarshKapadia2/one-or-two)
+Calculator| HTML, vanilla CSS, vanilla JS | - | [link](https://harshkapadia2.github.io/calculator/) | [link](https://github.com/HarshKapadia2/calculator)
+Court Case Management | HTML, vanilla CSS, vanilla JS | Node.js, MongoDB | - | [link](https://github.com/HarshKapadia2/court_case_management_web_app)
 
-### Documentation
+Web site | Front end | Live demo | GitHub repo
+-------- | --------- | --------- | -----------
+Challenges page | HTML, vanilla CSS, vanilla JS | [link](https://harshkapadia2.github.io/sample-challenges-page/) | [link](https://github.com/HarshKapadia2/sample-challenges-page)
+Contact Us page | HTML, vanilla CSS, vanilla JS | [link](https://harshkapadia2.github.io/sample-contact-us-page/) | [link](https://github.com/HarshKapadia2/sample-contact-us-page)
+Marksheet replica (Desktop only) | HTML, vanilla CSS | [link](https://harshkapadia2.github.io/sample-marksheet/) | [link](https://github.com/HarshKapadia2/sample-marksheet)
+LBL tribute page | HTML, vanilla CSS | [link](https://harshkapadia2.github.io/lbl-tribute-page/) | [link](https://github.com/HarshKapadia2/lbl-tribute-page)
 
-<a href="https://github.com/HarshKapadia2/git_basics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=git_basics" />
-</a>
-<a href="https://github.com/HarshKapadia2/cli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=cli" />
-</a>
+Documentation | Front end | Live demo | GitHub repo
+------------- | --------- | --------- | -----------
+git_basics | Asciidoctor | [link](https://harshkapadia2.github.io/git_basics/) | [link](https://github.com/HarshKapadia2/git_basics)
+cli | - | - | [link](https://github.com/HarshKapadia2/cli)
+docker | - | - | [link](https://github.com/HarshKapadia2/docker)
 
-### Web sites
-
-<a href="https://github.com/HarshKapadia2/sample-challenges-page">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=sample-challenges-page" />
-</a>
-<a href="https://github.com/HarshKapadia2/sample-marksheet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=sample-marksheet" />
-</a>
-<br />
-<br />
-<a href="https://github.com/HarshKapadia2/lbl-tribute-page">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=lbl-tribute-page" />
-</a>
-<a href="https://github.com/HarshKapadia2/sample-contact-us-page">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=sample-contact-us-page" />
-</a>
-
-### Desktop application
-
-<a href="https://github.com/HarshKapadia2/JDBC_LibraryManagementSystem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=JDBC_LibraryManagementSystem" />
-</a>
+Misc | Front end | Back end | Live demo | GitHub repo
+---- | --------- | -------- | --------- | -----------
+Library Management System | Java (Netbeans Drag and drop) | Java, MySQL (JDBC) | - | [link](https://github.com/HarshKapadia2/JDBC_LibraryManagementSystem)
 
 ### Misc
 <a href="https://github.com/HarshKapadia2/web-dev">
@@ -81,11 +55,3 @@
 <a href="https://github.com/HarshKapadia2/talks">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=talks" />
 </a>
-
-### Gists
-
-- [HTTP methods and status codes.](https://gist.github.com/HarshKapadia2/8068274d30d98ed3bd1c1ba6bd13b798)
-- [Unix/Linux info.](https://gist.github.com/HarshKapadia2/18150e1e57eab1f0e500f18feea890aa) (File system, Linux containers, etc.)
-- [My WSL and WSL2 guide.](https://gist.github.com/HarshKapadia2/714bba15f0f09d32c07cdde3c244be9f)
-
-> Do star ⭐ the repos and gists that you like!
