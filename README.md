@@ -51,7 +51,6 @@ Library Management System (JDBC) | Java (Netbeans drag and drop) | Java, MySQL |
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=articles" />
 </a>
 <br />
-<br />
 <a href="https://github.com/HarshKapadia2/talks">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=talks" />
 </a>
