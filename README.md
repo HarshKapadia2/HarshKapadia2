@@ -45,13 +45,13 @@ Library Management System (JDBC) | Java (Netbeans drag and drop) | Java, MySQL |
 
 ### Misc
 <a href="https://github.com/HarshKapadia2/web-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=web-dev" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=web-dev&theme=dark" />
 </a>
 <a href="https://github.com/HarshKapadia2/articles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=articles" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=articles&theme=dark" />
 </a>
 <br />
 <br />
 <a href="https://github.com/HarshKapadia2/talks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=talks" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKapadia2&repo=talks&theme=dark" />
 </a>
