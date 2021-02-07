@@ -1,19 +1,22 @@
 ### Hey, I'm Harsh!
 
-- 💛 I love web development and open source!
+- 💛 I love Web Development and Open Source!
+- 🔖 Find my projects and resources at [HarshKapadia2/web-dev](https://github.com/HarshKapadia2/web-dev)
+- 🎤 Check out my talks at [HarshKapadia2/talks](https://github.com/HarshKapadia2/talks)
+- 📹 Watch my videos at [youtube.com/HarshKapadia](https://www.youtube.com/HarshKapadia)
+- 📃 Read my articles at [dev.to/harshgkapadia](https://dev.to/harshgkapadia)
 - 📫 Reach me via
   - [Our Tech Community](https://otc.zulipchat.com) (Founder)
   - Twitter [@harshgkapadia](https://twitter.com/harshgkapadia) or [@OurTechComm](https://twitter.com/OurTechComm)
+  - e-mail (harshgkapadia@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/harshgkapadia)
-  - e-mail (harshgkapadia@gmail.com).
-- 📃 Read my articles at [dev.to/harshgkapadia](https://dev.to/harshgkapadia).
-- 📹 Watch my videos on my [YouTube channel](https://www.youtube.com/channel/UCgeTPlxztudRi7yav9HNa9Q?view_as=subscriber).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an ally to the LGBTQIA+ community, a believer in kindness and I love helping others!
 
 *"Kindness always wins" -Selena Gomez*
 
 *"We rise by lifting others." -Robert Ingersoll*
+
 
 ### My projects
 
@@ -44,6 +47,7 @@ networking | - | - | [link](https://github.com/HarshKapadia2/networking)
 Desktop app | Front end | Back end | Live demo | GitHub repo
 ---- | --------- | -------- | --------- | -----------
 Library Management System (JDBC) | Java (Netbeans drag and drop) | Java, MySQL | - | [link](https://github.com/HarshKapadia2/JDBC_LibraryManagementSystem)
+
 
 ### Misc
 <a href="https://github.com/HarshKapadia2/web-dev">
