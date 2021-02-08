@@ -13,7 +13,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an ally to the LGBTQIA+ community, a believer in kindness and I love helping others!
 
-*"Kindness always wins" -Selena Gomez*
+*"Kindness always wins." -Selena Gomez*
 
 *"We rise by lifting others." -Robert Ingersoll*
 
