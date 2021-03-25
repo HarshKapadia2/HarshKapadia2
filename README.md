@@ -42,8 +42,8 @@ Documentation | Front end | Live demo | GitHub repo
 git_basics | Asciidoctor, PWA | [link](https://harshkapadia2.github.io/git_basics/) | [link](https://github.com/HarshKapadia2/git_basics)
 web-dev | - | - | [link](https://github.com/HarshKapadia2/web-dev)
 networking | - | - | [link](https://github.com/HarshKapadia2/networking)
-cli | - | - | [link](https://github.com/HarshKapadia2/cli)
 docker | - | - | [link](https://github.com/HarshKapadia2/docker)
+cli | - | - | [link](https://github.com/HarshKapadia2/cli)
 
 Desktop app | Front end | Back end | Live demo | GitHub repo
 ---- | --------- | -------- | --------- | -----------
