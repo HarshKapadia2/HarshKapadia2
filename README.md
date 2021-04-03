@@ -39,7 +39,7 @@ LBL tribute page | HTML, CSS | [link](https://harshkapadia2.github.io/lbl-tribut
 
 Documentation | Front end | Live demo | GitHub repo
 ------------- | --------- | --------- | -----------
-git_basics | Asciidoctor, PWA | [link](https://harshkapadia2.github.io/git_basics/) | [link](https://github.com/HarshKapadia2/git_basics)
+git_basics | Asciidoctor | [PWA](https://harshkapadia2.github.io/git_basics/) or [Play Store](https://play.google.com/store/apps/details?id=com.harsh_kapadia.git_basics) | [link](https://github.com/HarshKapadia2/git_basics)
 web-dev | - | - | [link](https://github.com/HarshKapadia2/web-dev)
 networking | - | - | [link](https://github.com/HarshKapadia2/networking)
 docker | - | - | [link](https://github.com/HarshKapadia2/docker)
