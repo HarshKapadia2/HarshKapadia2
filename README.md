@@ -44,6 +44,7 @@ web-dev | - | - | [link](https://github.com/HarshKapadia2/web-dev)
 networking | - | - | [link](https://github.com/HarshKapadia2/networking)
 docker | - | - | [link](https://github.com/HarshKapadia2/docker)
 cli | - | - | [link](https://github.com/HarshKapadia2/cli)
+cloud-computing | - | - | [link](https://github.com/HarshKapadia2/cloud-computing)
 
 Desktop app | Front end | Back end | Live demo | GitHub repo
 ---- | --------- | -------- | --------- | -----------
