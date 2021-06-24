@@ -18,7 +18,7 @@
 *"We rise by lifting others." -Robert Ingersoll*
 
 
-### My projects
+### My Projects
 
 Web App | Front End | Back End | Live Demo | Repo
 ------- | --------- | -------- | --------- | ----
