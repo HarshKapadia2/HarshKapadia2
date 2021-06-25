@@ -50,5 +50,5 @@ cli | Jekyll | [link](https://harshkapadia2.github.io/cli/) | [link](https://git
 docker | Jekyll | [link](https://harshkapadia2.github.io/docker/) | [link](https://github.com/HarshKapadia2/docker)
 
 Desktop App | Front End | Back End | Live Demo | Repo
----- | --------- | -------- | --------- | -----------
-Library Management System (JDBC) | Java (Netbeans drag and drop) | Java, MySQL | - | [link](https://github.com/HarshKapadia2/JDBC_LibraryManagementSystem)
+----------- | --------- | -------- | --------- | ----
+Library Management System | Java (Netbeans drag and drop) | Java, JDBC, MySQL | - | [link](https://github.com/HarshKapadia2/JDBC_LibraryManagementSystem)
