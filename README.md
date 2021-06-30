@@ -2,6 +2,7 @@
 
 - 💛 I love Web Development and Open Source!
 - 🔖 Find my projects and resources at [harshkapadia2.github.io/web-dev](https://harshkapadia2.github.io/web-dev/)
+- 📄 View my résumé PDF at [harshkapadia2.github.io/resume](https://harshkapadia2.github.io/resume/)
 - 🎤 Check out my talks at [harshkapadia2.github.io/talks](https://harshkapadia2.github.io/talks/)
 - 📹 Watch my videos at [youtube.com/HarshKapadia](https://www.youtube.com/HarshKapadia)
 - 📃 Read my articles at [dev.to/harshgkapadia](https://dev.to/harshgkapadia)
