@@ -9,7 +9,7 @@
 - 📫 Reach me via
   - [Our Tech Community](https://ourtech.community) (Organiser)
   - Twitter [@harshgkapadia](https://twitter.com/harshgkapadia) or [@OurTechComm](https://twitter.com/OurTechComm)
-  - e-mail [harshgkapadia@gmail.com](mailto:harshgkapadia@gmail.com)
+  - e-mail [harsh@harshkapadia.me](mailto:harsh@harshkapadia.me)
   - [LinkedIn](https://www.linkedin.com/in/harshgkapadia)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an ally to the LGBTQIA+ community, a believer in kindness and I love helping others!
