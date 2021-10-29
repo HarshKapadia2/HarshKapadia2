@@ -11,6 +11,7 @@
   - Twitter [@harshgkapadia](https://twitter.com/harshgkapadia) or [@OurTechComm](https://twitter.com/OurTechComm)
   - e-mail [harsh@harshkapadia.me](mailto:harsh@harshkapadia.me)
   - [LinkedIn](https://www.linkedin.com/in/harshgkapadia)
+  - [All my links](https://links.harshkapadia.me)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an ally to the LGBTQIA+ community, a believer in kindness and I love helping others!
 
