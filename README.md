@@ -9,7 +9,7 @@
 - 📫 Reach me via
   - [Our Tech Community](https://ourtech.community) (Organiser)
   - Twitter [@harshgkapadia](https://twitter.com/harshgkapadia) or [@OurTechComm](https://twitter.com/OurTechComm)
-  - e-mail [harsh@harshkapadia.me](mailto:harsh@harshkapadia.me)
+  - e-mail [contact@harshkapadia.me](mailto:contact@harshkapadia.me)
   - [LinkedIn](https://www.linkedin.com/in/harshgkapadia)
   - [All my links](https://links.harshkapadia.me)
 - 😄 Pronouns: He/Him
