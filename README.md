@@ -34,7 +34,7 @@ Court Case Management | HTML, CSS, JS | Node.js, MongoDB | - | [link](https://gi
 
 NPM Package | Language | Package Link | Repo
 ----------- | -------- | :----------: | :--:
-@nanonets/optical-character-recognition | JavaScript | [link](https://www.npmjs.com/package/@nanonets/optical-character-recognition) | [link](https://www.npmjs.com/package/@nanonets/optical-character-recognition)
+@nanonets/optical-character-recognition | JavaScript | [link](https://www.npmjs.com/package/@nanonets/optical-character-recognition) | [link](https://github.com/NanoNets/ocr-js-sdk)
 @nanonets/image-classification | JavaScript | [link](https://www.npmjs.com/package/@nanonets/image-classification) | [link](https://github.com/NanoNets/ic-js-sdk)
 
 Web Site | Front End | Live Demo | Repo
