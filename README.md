@@ -1,18 +1,19 @@
 ### Hey, I'm Harsh!
 
-- 💛 I love Web Development and Open Source!
-- 🔖 Find my projects and resources at [harshkapadia2.github.io/web-dev](https://harshkapadia2.github.io/web-dev)
+- 💛 I love Web Development and community work!
+- 🚩 GitHub Campus Expert
+- 🔖 Find my projects and resources at https://dev.harshkapadia.me
 - 📄 View/download my résumé PDF at https://resume.harshkapadia.me
 - 🎤 Check out my talks at https://talks.harshkapadia.me
-- 📹 Watch my videos at [youtube.com/HarshKapadia](https://www.youtube.com/HarshKapadia)
-- 📃 Read my articles at [dev.to/harshgkapadia](https://dev.to/harshgkapadia)
+- 📹 Watch my videos at https://www.youtube.com/HarshKapadia
+- 📃 Read my articles at https://dev.to/harshgkapadia
 - 📫 Reach me via
-  - [Our Tech Community](https://ourtech.community) (Organiser)
+  - [Our Tech Community](https://ourtech.community) (Founder)
   - Twitter [@harshgkapadia](https://twitter.com/harshgkapadia) or [@OurTechComm](https://twitter.com/OurTechComm)
   - e-mail [contact@harshkapadia.me](mailto:contact@harshkapadia.me)
   - [LinkedIn](https://www.linkedin.com/in/harshgkapadia)
   - [All my links](https://links.harshkapadia.me)
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm an ally to the LGBTQIA+ community, a believer in kindness and I love helping others!
 
 *"Kindness always wins." -Selena Gomez*
