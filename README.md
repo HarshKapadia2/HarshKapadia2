@@ -2,6 +2,7 @@
 
 - 💛 I love Web Development and community work!
 - 🚩 GitHub Campus Expert
+- 🗺️ Find my portfolio at https://harshkapadia.me
 - 🔖 Find my projects and resources at https://dev.harshkapadia.me
 - 📄 View/download my résumé PDF at https://resume.harshkapadia.me
 - 🎤 Check out my talks at https://talks.harshkapadia.me
