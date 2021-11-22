@@ -7,7 +7,7 @@
 - 📄 View/download my résumé PDF at https://resume.harshkapadia.me
 - 🎤 Check out my talks at https://talks.harshkapadia.me
 - 📹 Watch my videos at https://www.youtube.com/HarshKapadia
-- 📃 Read my articles at https://dev.to/harshgkapadia
+- 📃 Read my articles at https://blog.harshkapadia.me
 - 📫 Reach me via
   - [Our Tech Community](https://ourtech.community) (Founder)
   - Twitter [@harshgkapadia](https://twitter.com/harshgkapadia) or [@OurTechComm](https://twitter.com/OurTechComm)
