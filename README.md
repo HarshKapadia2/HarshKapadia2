@@ -1,7 +1,7 @@
 ### Hey, I'm Harsh!
 
 - 💛 I love Web Development and community work!
-- 🚩 GitHub Campus Expert
+- 🚩 [GitHub Campus Expert](https://githubcampus.expert/HarshKapadia2)
 - 🗺️ Find my portfolio at https://harshkapadia.me
 - 🔖 Find my projects and resources at https://dev.harshkapadia.me
 - 📄 View/download my résumé PDF at https://resume.harshkapadia.me
