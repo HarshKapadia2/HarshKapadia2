@@ -7,7 +7,7 @@
 - 📄 View/download my résumé PDF at https://resume.harshkapadia.me
 - 🎤 Check out my talks at https://talks.harshkapadia.me
 - 📹 Watch my videos at https://www.youtube.com/HarshKapadia
-- 📃 Read my articles at https://blog.harshkapadia.me
+- 📃 Read my blogs at https://blog.harshkapadia.me
 - 📫 Reach me via
   - [Our Tech Community](https://ourtech.community) (Founder)
   - Twitter [@harshgkapadia](https://twitter.com/harshgkapadia) or [@OurTechComm](https://twitter.com/OurTechComm)
@@ -28,6 +28,7 @@ Web App | Front End | Back End | Live Demo | Repo
 Preview Markdown | React.js, CSS | - | [link](https://harshkapadia2.github.io/preview-markdown) | [link](https://github.com/HarshKapadia2/preview-markdown)
 HPS Gems | HTML, CSS, JS | PHP, MySQL | [link](https://hps-gems.herokuapp.com) | [link](https://github.com/HarshKapadia2/hps-gems)
 OTC CatchUp | HTML, CSS, JS, Asciidoctor | Node.js, Deta Base | [link](https://catchup.ourtech.community) | [link](https://github.com/OurTechCommunity/catchup)
+Git Graph | React.js | - | [link](https://harshkapadia2.github.io/git-graph) | [link](https://github.com/HarshKapadia2/git-graph)
 Attendance Manager | Template | Flask, Firebase | [link](https://attendance-management-flask.herokuapp.com) | [link](https://github.com/HarshKapadia2/attendance_management)
 Counter | React.js, CSS | - | [link](https://harshkapadia2.github.io/react-js-counter) | [link](https://github.com/HarshKapadia2/react-js-counter)
 Calculator| HTML, CSS, JS | - | [link](https://harshkapadia2.github.io/calculator) | [link](https://github.com/HarshKapadia2/calculator)
