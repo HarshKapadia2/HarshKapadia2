@@ -1,21 +1,14 @@
-### Hey, I'm Harsh!
+### Harsh Kapadia
 
-- 💛 I love Web Development, [Git](https://git.harshkapadia.me) and community work!
-- 🗺️ Find my portfolio at https://harshkapadia.me
-- 🚩 [GitHub Campus Expert](https://githubcampus.expert/HarshKapadia2)
-- 🔖 Find my projects and resources at https://dev.harshkapadia.me
-- 📄 View/download my résumé PDF at https://resume.harshkapadia.me
-- 🎤 Check out my talks at https://talks.harshkapadia.me
-- 📹 Watch my videos at https://www.youtube.com/HarshKapadia
-- 📃 Read my blogs at https://blog.harshkapadia.me
-- 📫 Reach me via
-  - [Our Tech Community](https://ourtech.community) (Founder)
-  - Twitter [@harshgkapadia](https://twitter.com/harshgkapadia) or [@OurTechComm](https://twitter.com/OurTechComm)
-  - e-mail [contact@harshkapadia.me](mailto:contact@harshkapadia.me)
-  - [LinkedIn](https://www.linkedin.com/in/harshgkapadia)
-  - [All my links](https://links.harshkapadia.me)
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I'm an ally to the LGBTQIA+ community, a believer in kindness and I love helping others!
+- [Web Developer](https://dev.harshkapadia.me), [Speaker](https://talks.harshkapadia.me) and Organiser at [Our Tech Community](https://ourtech.community).
+- Pronouns: He/Him/His
+- Portfolio: [harshkapadia.me](https://harshkapadia.me)
+- Talks: [talks.harshkapadia.me](https://talks.harshkapadia.me)
+- Projects and resources: [dev.harshkapadia.me](https://dev.harshkapadia.me)
+- Résumé PDF: [resume.harshkapadia.me](https://resume.harshkapadia.me)
+- Videos: [youtube.com/HarshKapadia](https://www.youtube.com/HarshKapadia)
+- Blog: [blog.harshkapadia.me](https://blog.harshkapadia.me)
+- Contact: [links.harshkapadia.me](https://links.harshkapadia.me)
 
 *"Kindness always wins." -Selena Gomez*
 
