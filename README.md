@@ -6,7 +6,7 @@
 - Portfolio: [harshkapadia.me](https://harshkapadia.me)
 - Projects and resources: [dev.harshkapadia.me](https://dev.harshkapadia.me)
 - Résumé (PDF): [resume.harshkapadia.me](https://resume.harshkapadia.me)
-- Videos: [youtube.com/HarshKapadia](https://www.youtube.com/HarshKapadia)
+- Videos: [youtube.com/@HarshKapadia](https://www.youtube.com/@HarshKapadia)
 - Blog: [blog.harshkapadia.me](https://blog.harshkapadia.me)
 - Contact: [links.harshkapadia.me](https://links.harshkapadia.me)
 
@@ -34,6 +34,7 @@ My portfolio | HTML, CSS, JS | [link](https://harshkapadia.me) | [link](https://
 Documentation | Front End | Live Demo | Repo
 ------------- | --------- | :-------: | :--:
 Git Internals | [Asciidoctor Jet](https://harshkapadia2.github.io/asciidoctor-jet) | [PWA](https://git.harshkapadia.me) | [link](https://github.com/HarshKapadia2/git_internals)
+Performance Comparison of TCP Versions | Asciidoctor | [link](https://harshkapadia2.github.io/tcp-version-performance-comparison) | [link](https://github.com/HarshKapadia2/tcp-version-performance-comparison)
 Computer Networking | Jekyll | [link](https://networking.harshkapadia.me) | [link](https://github.com/HarshKapadia2/networking)
 git_basics | [Asciidoctor Jet](https://harshkapadia2.github.io/asciidoctor-jet) | [PWA](https://harshkapadia2.github.io/git_basics) or [Play Store (TWA)](https://play.google.com/store/apps/details?id=com.harsh_kapadia.git_basics) | [link](https://github.com/HarshKapadia2/git_basics)
 
