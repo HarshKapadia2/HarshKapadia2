@@ -1,4 +1,4 @@
-### Harsh Kapadia (He/Him)
+### Harsh Kapadia (he/him)
 
 - [Web Development](https://dev.harshkapadia.me), [Computer Networking](https://networking.harshkapadia.me) and [Git](https://git.harshkapadia.me).
 - Organiser at [Our Tech Community](https://ourtech.community).
