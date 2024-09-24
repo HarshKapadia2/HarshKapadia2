@@ -1,5 +1,6 @@
 ### Harsh Kapadia (he/him)
 
+- Software Developer
 - Organiser at [Our Tech Community](https://ourtech.community).
 - [Talks](https://talks.harshkapadia.me)
 - [Web site](https://harshkapadia.me)
